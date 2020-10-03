@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rinokus/CLionProjects/Black/Week3/Task2/lexer.cpp
+lexer.h
+/Users/rinokus/CLionProjects/Black/Week3/Task2/lexer.h
+algorithm
+-
+charconv
+-
+unordered_map
+-
+
+/Users/rinokus/CLionProjects/Black/Week3/Task2/lexer.h
+iosfwd
+-
+string
+-
+sstream
+-
+variant
+-
+stdexcept
+-
+optional
+-
+queue
+-
+

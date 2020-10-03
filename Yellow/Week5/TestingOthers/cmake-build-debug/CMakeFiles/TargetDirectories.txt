@@ -1,0 +1,3 @@
+/Users/rinokus/CLionProjects/ZhelPo/Week5/TestingOthers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/rinokus/CLionProjects/ZhelPo/Week5/TestingOthers/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rinokus/CLionProjects/ZhelPo/Week5/TestingOthers/cmake-build-debug/CMakeFiles/TestingOthers.dir

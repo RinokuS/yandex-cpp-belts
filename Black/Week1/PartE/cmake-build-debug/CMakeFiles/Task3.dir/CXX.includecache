@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rinokus/CLionProjects/Black/Week1/Task3/json.h
+iostream
+-
+map
+-
+string
+-
+utility
+-
+variant
+-
+vector
+-
+
+/Users/rinokus/CLionProjects/Black/Week1/Task3/main.cpp
+descriptions.h
+/Users/rinokus/CLionProjects/Black/Week1/Task3/descriptions.h
+json.h
+/Users/rinokus/CLionProjects/Black/Week1/Task3/json.h
+requests.h
+/Users/rinokus/CLionProjects/Black/Week1/Task3/requests.h
+sphere.h
+/Users/rinokus/CLionProjects/Black/Week1/Task3/sphere.h
+transport_catalog.h
+/Users/rinokus/CLionProjects/Black/Week1/Task3/transport_catalog.h
+utils.h
+/Users/rinokus/CLionProjects/Black/Week1/Task3/utils.h
+iostream
+-
+

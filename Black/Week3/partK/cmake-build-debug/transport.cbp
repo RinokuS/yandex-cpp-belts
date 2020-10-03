@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="transport"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/rinokus/CLionProjects/Black/Week3/partK/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week3/partK/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week3/partK/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week3/partK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week3/partK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/rinokus/CLionProjects/Black/Week3/partK/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week3/partK/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week3/partK/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week3/partK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week3/partK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/rinokus/CLionProjects/Black/Week3/partK/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week3/partK/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week3/partK/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week3/partK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week3/partK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="transport">
+				<Option output="/Users/rinokus/CLionProjects/Black/Week3/partK/cmake-build-debug/transport" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/rinokus/CLionProjects/Black/Week3/partK/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/rinokus/CLionProjects/Black/Week3/partK/.."/>
+					<Add directory="/Users/rinokus/CLionProjects/Black/Week3/partK/../week_1/svg"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week3/partK/cmake-build-debug/Makefile&quot;  VERBOSE=1 transport"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week3/partK/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week3/partK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week3/partK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="transport/fast">
+				<Option output="/Users/rinokus/CLionProjects/Black/Week3/partK/cmake-build-debug/transport" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/rinokus/CLionProjects/Black/Week3/partK/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/rinokus/CLionProjects/Black/Week3/partK/.."/>
+					<Add directory="/Users/rinokus/CLionProjects/Black/Week3/partK/../week_1/svg"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week3/partK/cmake-build-debug/Makefile&quot;  VERBOSE=1 transport/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week3/partK/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week3/partK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week3/partK/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week3/partK/database.cpp">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week3/partK/database.h">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week3/partK/disances.cpp">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week3/partK/io.cpp">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week3/partK/io.h">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week3/partK/json.cpp">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week3/partK/json.h">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week3/partK/main.cpp">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week3/partK/misc.cpp">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week3/partK/misc.h">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week3/partK/svg.cpp">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week3/partK/svg.h">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week3/partK/svg_render.cpp">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week3/partK/svg_render.h">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week3/partK/transport_router.cpp">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week3/partK/transport_router.h">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week3/partK/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

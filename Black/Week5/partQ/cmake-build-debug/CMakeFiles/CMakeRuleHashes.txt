@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+d22b7c6e2314921d6b330c35d2d2c2ed database.pb.h
+02b57a71e829f18f2082d64bbcc22802 renderer.pb.h
+4e1db4fffd690a2a8e5755baa98fda9f router.pb.h
+d1a6c35bb3fd4088bd73ef7a924d0e87 transport_catalog.pb.h

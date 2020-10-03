@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1">
+   <polyline fill="none" stroke="red" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" points="8,1.28571 4,1.71429 0,2.14286 4,1.71429 8,1.28571 " />
+   <polyline fill="none" stroke="green" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" points="0,0.857143 4,0.428571 0,0 4,0.428571 0,0.857143 " />
+   <polyline fill="none" stroke="blue" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" points="10,3 8,1.28571 6,2.57143 0,2.14286 2,0.857143 4,0.428571 0,0.857143 2,0.857143 4,1.28571 0,0 4,1.28571 2,0.857143 4,1.71429 6,2.57143 10,3 " />
+   <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="8" y="1.28571" dx="0" dy="0" font-size="18" font-family="Verdana" font-weight="bold">BED</text>
+   <text fill="red" stroke="none" stroke-width="1" x="8" y="1.28571" dx="0" dy="0" font-size="18" font-family="Verdana" font-weight="bold">BED</text>
+   <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="0" y="2.14286" dx="0" dy="0" font-size="18" font-family="Verdana" font-weight="bold">BED</text>
+   <text fill="red" stroke="none" stroke-width="1" x="0" y="2.14286" dx="0" dy="0" font-size="18" font-family="Verdana" font-weight="bold">BED</text>
+   <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="0" y="0.857143" dx="0" dy="0" font-size="18" font-family="Verdana" font-weight="bold">HIJ</text>
+   <text fill="green" stroke="none" stroke-width="1" x="0" y="0.857143" dx="0" dy="0" font-size="18" font-family="Verdana" font-weight="bold">HIJ</text>
+   <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="0" y="0" dx="0" dy="0" font-size="18" font-family="Verdana" font-weight="bold">HIJ</text>
+   <text fill="green" stroke="none" stroke-width="1" x="0" y="0" dx="0" dy="0" font-size="18" font-family="Verdana" font-weight="bold">HIJ</text>
+   <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="10" y="3" dx="0" dy="0" font-size="18" font-family="Verdana" font-weight="bold">PM</text>
+   <text fill="blue" stroke="none" stroke-width="1" x="10" y="3" dx="0" dy="0" font-size="18" font-family="Verdana" font-weight="bold">PM</text>
+   <circle fill="white" stroke="none" stroke-width="1" cx="10" cy="3" r="3" />
+   <circle fill="white" stroke="none" stroke-width="1" cx="8" cy="1.28571" r="3" />
+   <circle fill="white" stroke="none" stroke-width="1" cx="6" cy="2.57143" r="3" />
+   <circle fill="white" stroke="none" stroke-width="1" cx="0" cy="2.14286" r="3" />
+   <circle fill="white" stroke="none" stroke-width="1" cx="4" cy="1.71429" r="3" />
+   <circle fill="white" stroke="none" stroke-width="1" cx="4" cy="1.28571" r="3" />
+   <circle fill="white" stroke="none" stroke-width="1" cx="2" cy="0.857143" r="3" />
+   <circle fill="white" stroke="none" stroke-width="1" cx="0" cy="0.857143" r="3" />
+   <circle fill="white" stroke="none" stroke-width="1" cx="4" cy="0.428571" r="3" />
+   <circle fill="white" stroke="none" stroke-width="1" cx="0" cy="0" r="3" />
+   <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="10" y="3" dx="0" dy="0" font-size="13" font-family="Verdana">A</text>
+   <text fill="black" stroke="none" stroke-width="1" x="10" y="3" dx="0" dy="0" font-size="13" font-family="Verdana">A</text>
+   <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="8" y="1.28571" dx="0" dy="0" font-size="13" font-family="Verdana">B</text>
+   <text fill="black" stroke="none" stroke-width="1" x="8" y="1.28571" dx="0" dy="0" font-size="13" font-family="Verdana">B</text>
+   <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="6" y="2.57143" dx="0" dy="0" font-size="13" font-family="Verdana">C</text>
+   <text fill="black" stroke="none" stroke-width="1" x="6" y="2.57143" dx="0" dy="0" font-size="13" font-family="Verdana">C</text>
+   <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="0" y="2.14286" dx="0" dy="0" font-size="13" font-family="Verdana">D</text>
+   <text fill="black" stroke="none" stroke-width="1" x="0" y="2.14286" dx="0" dy="0" font-size="13" font-family="Verdana">D</text>
+   <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="4" y="1.71429" dx="0" dy="0" font-size="13" font-family="Verdana">E</text>
+   <text fill="black" stroke="none" stroke-width="1" x="4" y="1.71429" dx="0" dy="0" font-size="13" font-family="Verdana">E</text>
+   <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="4" y="1.28571" dx="0" dy="0" font-size="13" font-family="Verdana">F</text>
+   <text fill="black" stroke="none" stroke-width="1" x="4" y="1.28571" dx="0" dy="0" font-size="13" font-family="Verdana">F</text>
+   <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="2" y="0.857143" dx="0" dy="0" font-size="13" font-family="Verdana">G</text>
+   <text fill="black" stroke="none" stroke-width="1" x="2" y="0.857143" dx="0" dy="0" font-size="13" font-family="Verdana">G</text>
+   <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="0" y="0.857143" dx="0" dy="0" font-size="13" font-family="Verdana">H</text>
+   <text fill="black" stroke="none" stroke-width="1" x="0" y="0.857143" dx="0" dy="0" font-size="13" font-family="Verdana">H</text>
+   <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="4" y="0.428571" dx="0" dy="0" font-size="13" font-family="Verdana">I</text>
+   <text fill="black" stroke="none" stroke-width="1" x="4" y="0.428571" dx="0" dy="0" font-size="13" font-family="Verdana">I</text>
+   <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="0" y="0" dx="0" dy="0" font-size="13" font-family="Verdana">J</text>
+   <text fill="black" stroke="none" stroke-width="1" x="0" y="0" dx="0" dy="0" font-size="13" font-family="Verdana">J</text>
+</svg>

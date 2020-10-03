@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rinokus/CLionProjects/ZhelPo/Week1/Task6/main.cpp
+iostream
+-
+map
+-
+stdexcept
+-
+vector
+-
+set
+-
+utility
+-
+

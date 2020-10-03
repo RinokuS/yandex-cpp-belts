@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+75e95e6455737d3c03f0863bd2254c56 database.pb.h
+feee1bfde13bbe66a3f496050d92ecbd transport_catalog.pb.h

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rinokus/CLionProjects/Black/Week5/partQ/ostream_color.h
+
+/Users/rinokus/CLionProjects/Black/Week5/partQ/profile_advanced.cpp
+profile_advanced.h
+/Users/rinokus/CLionProjects/Black/Week5/partQ/profile_advanced.h
+ostream_color.h
+/Users/rinokus/CLionProjects/Black/Week5/partQ/ostream_color.h
+iostream
+-
+sstream
+-
+
+/Users/rinokus/CLionProjects/Black/Week5/partQ/profile_advanced.h
+string
+-
+chrono
+-
+

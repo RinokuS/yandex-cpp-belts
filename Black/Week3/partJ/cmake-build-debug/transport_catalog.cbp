@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="transport_catalog"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/rinokus/CLionProjects/Black/Week3/partJ/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week3/partJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week3/partJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week3/partJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week3/partJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/rinokus/CLionProjects/Black/Week3/partJ/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week3/partJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week3/partJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week3/partJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week3/partJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/rinokus/CLionProjects/Black/Week3/partJ/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week3/partJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week3/partJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week3/partJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week3/partJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="transport_catalog">
+				<Option output="/Users/rinokus/CLionProjects/Black/Week3/partJ/cmake-build-debug/transport_catalog" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/rinokus/CLionProjects/Black/Week3/partJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DTESTS=1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week3/partJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 transport_catalog"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week3/partJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week3/partJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week3/partJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="transport_catalog/fast">
+				<Option output="/Users/rinokus/CLionProjects/Black/Week3/partJ/cmake-build-debug/transport_catalog" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/rinokus/CLionProjects/Black/Week3/partJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DTESTS=1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week3/partJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 transport_catalog/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week3/partJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week3/partJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week3/partJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week3/partJ/descriptions.cpp">
+			<Option target="transport_catalog"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week3/partJ/descriptions.h">
+			<Option target="transport_catalog"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week3/partJ/graph.cpp">
+			<Option target="transport_catalog"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week3/partJ/graph.h">
+			<Option target="transport_catalog"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week3/partJ/json.cpp">
+			<Option target="transport_catalog"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week3/partJ/json.h">
+			<Option target="transport_catalog"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week3/partJ/main.cpp">
+			<Option target="transport_catalog"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week3/partJ/renderer.cpp">
+			<Option target="transport_catalog"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week3/partJ/renderer.h">
+			<Option target="transport_catalog"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week3/partJ/requests.cpp">
+			<Option target="transport_catalog"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week3/partJ/requests.h">
+			<Option target="transport_catalog"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week3/partJ/router.cpp">
+			<Option target="transport_catalog"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week3/partJ/router.h">
+			<Option target="transport_catalog"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week3/partJ/sphere.cpp">
+			<Option target="transport_catalog"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week3/partJ/sphere.h">
+			<Option target="transport_catalog"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week3/partJ/svg.cpp">
+			<Option target="transport_catalog"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week3/partJ/svg.h">
+			<Option target="transport_catalog"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week3/partJ/test_runner.h">
+			<Option target="transport_catalog"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week3/partJ/tests.cpp">
+			<Option target="transport_catalog"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week3/partJ/tests.h">
+			<Option target="transport_catalog"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week3/partJ/transport_catalog.cpp">
+			<Option target="transport_catalog"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week3/partJ/transport_catalog.h">
+			<Option target="transport_catalog"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week3/partJ/transport_router.cpp">
+			<Option target="transport_catalog"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week3/partJ/transport_router.h">
+			<Option target="transport_catalog"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week3/partJ/utils.cpp">
+			<Option target="transport_catalog"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week3/partJ/utils.h">
+			<Option target="transport_catalog"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week3/partJ/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

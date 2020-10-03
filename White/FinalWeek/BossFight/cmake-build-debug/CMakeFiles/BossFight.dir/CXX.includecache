@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rinokus/CLionProjects/BelPo/FinalWeek/BossFight/main.cpp
+iostream
+-
+exception
+-
+set
+-
+map
+-
+iomanip
+-
+sstream
+-
+

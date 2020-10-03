@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="spreadsheet"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/rinokus/CLionProjects/Black/Week6/BossFight/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week6/BossFight/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week6/BossFight/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week6/BossFight/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week6/BossFight/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/local">
+				<Option working_dir="/Users/rinokus/CLionProjects/Black/Week6/BossFight/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week6/BossFight/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/local"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week6/BossFight/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week6/BossFight/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week6/BossFight/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/strip">
+				<Option working_dir="/Users/rinokus/CLionProjects/Black/Week6/BossFight/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week6/BossFight/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/strip"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week6/BossFight/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week6/BossFight/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week6/BossFight/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install">
+				<Option working_dir="/Users/rinokus/CLionProjects/Black/Week6/BossFight/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week6/BossFight/cmake-build-debug/Makefile&quot;  VERBOSE=1 install"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week6/BossFight/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week6/BossFight/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week6/BossFight/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list_install_components">
+				<Option working_dir="/Users/rinokus/CLionProjects/Black/Week6/BossFight/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week6/BossFight/cmake-build-debug/Makefile&quot;  VERBOSE=1 list_install_components"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week6/BossFight/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week6/BossFight/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week6/BossFight/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/rinokus/CLionProjects/Black/Week6/BossFight/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week6/BossFight/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week6/BossFight/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week6/BossFight/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week6/BossFight/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/rinokus/CLionProjects/Black/Week6/BossFight/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week6/BossFight/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week6/BossFight/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week6/BossFight/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week6/BossFight/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="spreadsheet">
+				<Option output="/Users/rinokus/CLionProjects/Black/Week6/BossFight/cmake-build-debug/spreadsheet" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/rinokus/CLionProjects/Black/Week6/BossFight/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-D_DEBUG"/>
+					<Add option="-DANTLR4CPP_STATIC"/>
+					<Add option="-D_SILENCE_ALL_CXX17_DEPRECATION_WARNINGS"/>
+					<Add directory="/Users/rinokus/CLionProjects/Black/Week6/BossFight/antlr4_runtime/runtime/src"/>
+					<Add directory="/Users/rinokus/CLionProjects/Black/Week6/BossFight"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week6/BossFight/cmake-build-debug/Makefile&quot;  VERBOSE=1 spreadsheet"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week6/BossFight/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week6/BossFight/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week6/BossFight/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="spreadsheet/fast">
+				<Option output="/Users/rinokus/CLionProjects/Black/Week6/BossFight/cmake-build-debug/spreadsheet" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/rinokus/CLionProjects/Black/Week6/BossFight/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-D_DEBUG"/>
+					<Add option="-DANTLR4CPP_STATIC"/>
+					<Add option="-D_SILENCE_ALL_CXX17_DEPRECATION_WARNINGS"/>
+					<Add directory="/Users/rinokus/CLionProjects/Black/Week6/BossFight/antlr4_runtime/runtime/src"/>
+					<Add directory="/Users/rinokus/CLionProjects/Black/Week6/BossFight"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week6/BossFight/cmake-build-debug/Makefile&quot;  VERBOSE=1 spreadsheet/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week6/BossFight/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week6/BossFight/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week6/BossFight/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week6/BossFight/ast.cpp">
+			<Option target="spreadsheet"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week6/BossFight/ast_delete_visitor.h">
+			<Option target="spreadsheet"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week6/BossFight/ast_insert_visitor.h">
+			<Option target="spreadsheet"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week6/BossFight/ast_node.h">
+			<Option target="spreadsheet"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week6/BossFight/ast_print_visitor.cpp">
+			<Option target="spreadsheet"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week6/BossFight/ast_print_visitor.h">
+			<Option target="spreadsheet"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week6/BossFight/ast_ref_cells_visitor.h">
+			<Option target="spreadsheet"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week6/BossFight/ast_visitor.cpp">
+			<Option target="spreadsheet"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week6/BossFight/ast_visitor.h">
+			<Option target="spreadsheet"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week6/BossFight/cell.cpp">
+			<Option target="spreadsheet"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week6/BossFight/cell.h">
+			<Option target="spreadsheet"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week6/BossFight/common.cpp">
+			<Option target="spreadsheet"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week6/BossFight/common.h">
+			<Option target="spreadsheet"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week6/BossFight/formula.cpp">
+			<Option target="spreadsheet"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week6/BossFight/formula.h">
+			<Option target="spreadsheet"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week6/BossFight/formula_impl.h">
+			<Option target="spreadsheet"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week6/BossFight/main.cpp">
+			<Option target="spreadsheet"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week6/BossFight/position.cpp">
+			<Option target="spreadsheet"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week6/BossFight/profile_advanced.cpp">
+			<Option target="spreadsheet"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week6/BossFight/profile_advanced.h">
+			<Option target="spreadsheet"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week6/BossFight/sheet.cpp">
+			<Option target="spreadsheet"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week6/BossFight/sheet.h">
+			<Option target="spreadsheet"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week6/BossFight/table.h">
+			<Option target="spreadsheet"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week6/BossFight/test_runner.h">
+			<Option target="spreadsheet"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week6/BossFight/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

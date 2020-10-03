@@ -1,0 +1,5 @@
+"/Users/rinokus/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/202.6948.80/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/rinokus/CLionProjects/Black/Week5/partP
+-- Found Protobuf: /usr/local/lib/libprotobuf.dylib (found version "3.13.0") 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/rinokus/CLionProjects/Black/Week5/partP/cmake-build-debug

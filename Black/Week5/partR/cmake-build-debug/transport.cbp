@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="transport"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="transport">
+				<Option output="/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/transport" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DDEBUG"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug"/>
+					<Add directory="/Users/rinokus/CLionProjects/Black/Week5/partR/.."/>
+					<Add directory="/Users/rinokus/CLionProjects/Black/Week5/partR/../week_1/svg"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/Makefile&quot;  VERBOSE=1 transport"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="transport/fast">
+				<Option output="/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/transport" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DDEBUG"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug"/>
+					<Add directory="/Users/rinokus/CLionProjects/Black/Week5/partR/.."/>
+					<Add directory="/Users/rinokus/CLionProjects/Black/Week5/partR/../week_1/svg"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/Makefile&quot;  VERBOSE=1 transport/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/address.cpp">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/address.h">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/address.pb.cc">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/address.pb.h">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/address.pb.h.rule">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/company.pb.cc">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/company.pb.h">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/company.pb.h.rule">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/database.pb.cc">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/database.pb.h">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/database.pb.h.rule">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/db.pb.cc">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/db.pb.h">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/db.pb.h.rule">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/name.pb.cc">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/name.pb.h">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/name.pb.h.rule">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/phone.pb.cc">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/phone.pb.h">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/phone.pb.h.rule">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/renderer.pb.cc">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/renderer.pb.h">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/renderer.pb.h.rule">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/router.pb.cc">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/router.pb.h">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/router.pb.h.rule">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/rubric.pb.cc">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/rubric.pb.h">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/rubric.pb.h.rule">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/sphere.pb.cc">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/sphere.pb.h">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/sphere.pb.h.rule">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/transport_catalog.pb.cc">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/transport_catalog.pb.h">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/transport_catalog.pb.h.rule">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/url.pb.cc">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/url.pb.h">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/url.pb.h.rule">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/working_time.pb.cc">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/working_time.pb.h">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/cmake-build-debug/working_time.pb.h.rule">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/company.cpp">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/company.h">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/database.cpp">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/database.h">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/disances.cpp">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/io.cpp">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/io.h">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/json.cpp">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/json.h">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/main_serdes.cpp">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/misc.cpp">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/misc.h">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/profile_advanced.cpp">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/profile_advanced.h">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/svg.cpp">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/svg.h">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/svg_render.cpp">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/svg_render.h">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/transport_router.cpp">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/transport_router.h">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/yp_index.cpp">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/yp_index.h">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/yp_serialize.cpp">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/yp_serialize.h">
+			<Option target="transport"/>
+		</Unit>
+		<Unit filename="/Users/rinokus/CLionProjects/Black/Week5/partR/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

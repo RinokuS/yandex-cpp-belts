@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rinokus/CLionProjects/Brown/Week2/Task6/game_object.h
+string
+-
+
+/Users/rinokus/CLionProjects/Brown/Week2/Task6/geo2d.h
+cstdint
+-
+
+/Users/rinokus/CLionProjects/Brown/Week2/Task6/main.cpp
+geo2d.h
+/Users/rinokus/CLionProjects/Brown/Week2/Task6/geo2d.h
+game_object.h
+/Users/rinokus/CLionProjects/Brown/Week2/Task6/game_object.h
+test_runner.h
+/Users/rinokus/CLionProjects/Brown/Week2/Task6/test_runner.h
+vector
+-
+memory
+-
+
+/Users/rinokus/CLionProjects/Brown/Week2/Task6/test_runner.h
+sstream
+-
+stdexcept
+-
+iostream
+-
+map
+-
+set
+-
+string
+-
+vector
+-
+

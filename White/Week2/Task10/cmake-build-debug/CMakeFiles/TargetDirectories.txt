@@ -1,0 +1,3 @@
+/Users/rinokus/CLionProjects/White/Week2/Task10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/rinokus/CLionProjects/White/Week2/Task10/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rinokus/CLionProjects/White/Week2/Task10/cmake-build-debug/CMakeFiles/Task10.dir

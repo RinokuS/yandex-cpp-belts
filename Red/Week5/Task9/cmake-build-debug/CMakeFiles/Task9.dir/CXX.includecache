@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rinokus/CLionProjects/Red/Week5/Task9/main.cpp
+test_runner.h
+/Users/rinokus/CLionProjects/Red/Week5/Task9/test_runner.h
+profile.h
+/Users/rinokus/CLionProjects/Red/Week5/Task9/profile.h
+map
+-
+string
+-
+set
+-
+vector
+-
+future
+-
+functional
+-
+
+/Users/rinokus/CLionProjects/Red/Week5/Task9/test_runner.h
+sstream
+-
+stdexcept
+-
+iostream
+-
+map
+-
+set
+-
+string
+-
+vector
+-
+
